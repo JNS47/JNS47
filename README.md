@@ -1,4 +1,4 @@
-### Hi there 👋
+### Quack!
 
 <!--
 **JNS47/JNS47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
